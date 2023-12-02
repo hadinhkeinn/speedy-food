@@ -1,4 +1,4 @@
-package com.buiducha.speedyfood
+package com.buiducha.speedyfood.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
