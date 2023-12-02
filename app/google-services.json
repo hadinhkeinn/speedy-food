@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911970558738",
+    "project_id": "speedyfood-b2547",
+    "storage_bucket": "speedyfood-b2547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911970558738:android:d711ba47b06853c5a089cb",
+        "android_client_info": {
+          "package_name": "com.android.buiducha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzmJoK0jEp_FGGPP9R9JmJqOYsVcqG9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911970558738:android:cbe4f7832e1a6d69a089cb",
+        "android_client_info": {
+          "package_name": "com.buiducha.speedyfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzmJoK0jEp_FGGPP9R9JmJqOYsVcqG9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
