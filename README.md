@@ -1,1 +1,1 @@
-# speedy-food
+# Đồ án cuối kỳ Nhập môn Công nghệ Phần mềm - SE104.O11 - Nhóm 3
